@@ -13,5 +13,5 @@
 ### [+] Description
 Simple script that can bring your server to life adding dialog options with pre-planed NPCs and NPCs around map! 
 
-### [+] contact
+### [+] Contact
 You can easily find us at our discord: https://discord.gg/makeit where we can help you all the time
